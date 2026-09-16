@@ -1,9 +1,5 @@
 <!-- kicad_template/README.md -->
 
-<!-- <div align="center"> -->
-<!--     <img src="/img/mrc.jpeg" width="200"> -->
-<!-- </div> -->
-
 # Generic KiCad 10.0 Project Template
 
 This repository is a template for the electrical team to use for board

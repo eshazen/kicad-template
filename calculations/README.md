@@ -1,9 +1,5 @@
 <!-- kicad_template/calculations/README.md -->
 
-<div align="center">
-    <img src="/img/mrc.jpeg" width="200">
-</div>
-
 # Calculations
 
 Place all relevent calculations in this folder related to component choice or simulation.

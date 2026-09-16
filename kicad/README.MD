@@ -1,9 +1,5 @@
 <!-- kicad_template/kicad/README.md -->
 
-<div align="center">
-    <img src="/img/mrc.jpeg" width="200">
-</div>
-
 # KiCad
 
 This is where KiCad projects are stored for this template.
