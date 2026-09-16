@@ -275,7 +275,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "${MRC_REVISION}"
+      "sch_revision": "${SCH_REVISION}"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -724,13 +724,13 @@
     ]
   ],
   "text_variables": {
-    "MRC_CONTRIBUTORS": "logan fick",
-    "MRC_DATE": "9/1/2026",
-    "MRC_DESC_1": "line one",
-    "MRC_DESC_2": "line two",
-    "MRC_REVISION": "1.0",
-    "MRC_SUBSYSTEM": "Comms",
-    "MRC_TITLE": "Comms Example Board"
+    "SCH_CONTRIBUTORS": "Dr. Electron",
+    "SCH_DATE": "9/1/2026",
+    "SCH_DESC_1": "line one",
+    "SCH_DESC_2": "line two",
+    "SCH_REVISION": "1.0",
+    "SCH_SUBSYSTEM": "Comms",
+    "SCH_TITLE": "Comms Example Board"
   },
   "tuning_profiles": {
     "meta": {
