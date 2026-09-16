@@ -523,7 +523,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "mrc_template.kicad_pro",
+    "filename": "template.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -709,7 +709,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "mrc_template.kicad_sch",
+        "filename": "template.kicad_sch",
         "name": "Root",
         "uuid": "dff3cfde-4775-47a0-871e-26e88704f259"
       }

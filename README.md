@@ -1,29 +1,31 @@
 <!-- kicad_template/README.md -->
 
-<div align="center">
-    <img src="/img/mrc.jpeg" width="200">
-</div>
+<!-- <div align="center"> -->
+<!--     <img src="/img/mrc.jpeg" width="200"> -->
+<!-- </div> -->
 
-# BU Mars Rover Club Electrical Team KiCad 10.0 Project Template
+# Generic KiCad 10.0 Project Template
 
-This repository is a template for the electrical team to use for board design. It can be easily cloned, edited, and uploaded to the club github for collaboration between members.
+This repository is a template for the electrical team to use for board
+design. It can be easily cloned, edited, and uploaded to your own
+github for collaboration between members.
 
 ## File Structure
 
 - ```/kicad/``` contains all of the KiCad 10.0 project files
 - ```/datasheets/``` should contain all of the .pdf files for the important components
 - ```/calculations/``` should include any significant calculations that led to a component choice or value choice
-- ```/cad/``` should include any .STEP or .STL files used with your board, or a link to your OnShape document
+- ```/cad/``` should include any .DXF, .STEP or .STL files used with your board, or a link to your OnShape document
 
 ## Using this Template in KiCad 10.0
 
-Download KiCad [here](https://www.kicad.org/download/). We are using version 10.0 for the club this year.
+Download KiCad [here](https://www.kicad.org/download/). I currently recommend version 10.
 
 1. Click the ```Use this Template``` to make a personal copy of this repository.
 
 2. Set the repository name to your desired name: PROJECT_NAME
 
-3. Clone the repository to your local machine, preferably in a projects folder for Mars Rover Club.
+3. Clone the repository to your local machine
 
 4. Open up KiCad 10.0 and open the default project in the ```kicad/default``` directory.
 
@@ -34,11 +36,11 @@ Download KiCad [here](https://www.kicad.org/download/). We are using version 10.
 ```
 PROJECT_NAME/
 ├── kicad/
-│   ├── default/
-│   │   ├── mrc_template.kicad_dru
-│   │   ├── mrc_template.kicad_pcb
-│   │   ├── mrc_template.kicad_pro
-│   │   ├── mrc_template.kicad_sch
+│   ├── template/
+│   │   ├── template.kicad_dru
+│   │   ├── template.kicad_pcb
+│   │   ├── template.kicad_pro
+│   │   ├── template.kicad_sch
 │   │   └── sheet.kicad_wks
 │   └── PROJECT_NAME/
 │       ├── PROJECT_NAME.kicad_dru
@@ -53,7 +55,7 @@ PROJECT_NAME/
 └── LICENSE
 ```
 
-7. Delete the ```kicad/default``` directory.
+7. Delete the ```kicad/template``` directory.
 
 8. Open up your newly renamed project, ```PROJECT_NAME.kicad_pro```, and then open the schematic editor.
 
