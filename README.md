@@ -10,6 +10,8 @@ This repository is a template for the electrical team to use for board
 design. It can be easily cloned, edited, and uploaded to your own
 github for collaboration between members.
 
+<font size=-1>Template forked courtesy of the BU Mars Rover Club!</font>
+
 ## File Structure
 
 - ```/kicad/``` contains all of the KiCad 10.0 project files
