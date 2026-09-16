@@ -1,0 +1,45 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "dff3cfde-4775-47a0-871e-26e88704f259")
+	(paper "A4")
+	(title_block
+		(title "${SCH_TITLE}")
+		(date "${SCH_DATE}")
+		(rev "${SCH_REVISION}")
+		(company "Boston University College of Engineering")
+		(comment 1 "${SCH_DESC_2}")
+		(comment 2 "${SCH_DESC_1}")
+		(comment 3 "${SCH_CONTRIBUTORS}")
+		(comment 4 "${SCH_SUBSYSTEM}")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+	(embedded_files
+		(file
+			(name "sheet.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WBVCS0VAGbfYiEAtR5qxXLzJHyDeRy9imUEHhPOvMnMnkjKtF/+/z+hYAJZAFIAXQB3i/pf
+				e6N+zgbvST3jze7EzGtuWLBUTuc8iEU347BgJfVbwp8f3ScAAIER9Pcz5aRUhtr6MXgz4Uj51t/t
+				m++GAAgULkppVWf1rPFn3xABEPh4RBmw+7CHELb6R48UpfxH9723s7LVpw0USKP9Zezf3fH63Ddv
+				/X3o0yfl+XTo+Q0fv1/OO5hBendO+ecrivqbc8rq1cF8a51TYpZjFyaxSf139x+K8it2+b/dhKJN
+				skkJV8BQe27V7aJRQpdyXZQ7qLQcmzQi2SoU7ZJZZIrNYRpYaaX1SSkmD464ThqXLTKapVLZTANP
+				3O8We2/Svp/v5yQN/g+oY6vTjFStT8/zJq0IgKw11AOBwqFarDpYdVoVtepUzIpyEQ1Cyt0oakWd
+				00paMZFsApEoEA0um3Ca1qhcVyUtSBbRHhsDMz4cdo+9UL0i5KTag9u48DFXaaUg9r+XUxEYTgJw
+				o/w7cWuN7zsGeqCxTKgUmhJJkhQyzAFwRIQGyXShaHgA4JhvLxYTrIE8rjeHQgtlqSG0bWkhQquz
+				Is4Su8mbsVN6HL+PpKIDdGwHl9oh22zoxr00QWAzkKm1h8cwgA4Q3qbz25m1ZNQ+OUJXMF+Fg57y
+				hy71FmnwAKBmMHed1K19KB6gdZtLCndxX7FVABIYGQrAvlkcgcRnMJkCJ61eRDmao8S2Mwxz2wOj
+				nqIfBSdalCRaXwYiwoNepk34dB4pmUUAv2TnZIY2H86dvSd2YXNzFt4tFb7FQMs8SuQKxC1mNgPc
+				B4t6hqsafSzXD5NnDRWXlTUFiuuoy9dJx353e0eyggKbBRd/VHUnZxztl7XTtYhCE9sT//+uRxTG
+				R68C|
+			)
+			(checksum "7895CC44D30B83E6DBA042B3CAC146F2")
+		)
+	)
+)

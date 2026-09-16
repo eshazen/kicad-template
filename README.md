@@ -65,7 +65,7 @@ PROJECT_NAME/
 
 <div align="center">
     <img src="img/text_variables.png" width="500" max-height="400">
-    <img src="img/fields.png" width="500" max-height="400">
+    <!-- <img src="img/fields.png" width="500" max-height="400"> -->
 </div>
 
 <br>
